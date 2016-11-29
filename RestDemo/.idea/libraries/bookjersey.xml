@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="bookjersey">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../java/k8s/bookjersey" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../java/k8s/bookjersey" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../java/k8s/bookjersey" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../java/k8s/bookjersey" recursive="false" type="SOURCES" />
+  </library>
+</component>
